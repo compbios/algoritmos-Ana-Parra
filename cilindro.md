@@ -1,6 +1,8 @@
 ________________________
-# Algoritmo Area-Volumen Cilindro
+# Algoritmo Área-Volumen Cilindro
 _______________________
+
+# Algoritmo
 
 ![TAREA SESIÓN 2 ÁREA-VOLUMEN CILINDRO](https://user-images.githubusercontent.com/69484760/90099372-e54cac80-dcff-11ea-852f-9c56df4f9352.png)
 
