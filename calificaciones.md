@@ -4,6 +4,8 @@ _____________________________
 
 # Algoritmo
 
+Diagrama de flujo
+
 ![TAREA SESION 2 ALGORITMO NOTAS](https://user-images.githubusercontent.com/69484760/90099569-6c018980-dd00-11ea-9fad-70ab6ead19bf.png)
 
 # Al ejecutar
