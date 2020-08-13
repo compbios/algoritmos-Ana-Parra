@@ -7,7 +7,7 @@ El pseudocódigo para hallar el área y volumen de un cilindro es:
 * Algoritmo Area_Volumen
 * Escribir '1. Hallar área de base:'
 * Escribir 'Por favor escriba el valor del radio'
-* Definir R Como Entero
+* Definir R Como Real
 * Leer R
 * Definir A Como Entero
 * A <- 2
@@ -16,7 +16,7 @@ El pseudocódigo para hallar el área y volumen de un cilindro es:
 *	Escribir 'El resultado de área de base es:',C
 *	Escribir '2. Hallar area lateral'
 *	Escribir 'Por favor escriba el valor de altura:'
-*	Definir H Como Entero
+*	Definir H Como Real
 *	Leer H
 *	D <- (PI*2)*(R)*H
 *	Escribir 'El resultado de Area lateral es:',D
