@@ -2,36 +2,34 @@ ______________________________
 # Ejercicio Notas
 _____________________________
 
-El pseudocódigo para hallar las notas promedio es:
+El pseudocódigo para hallar el promedio de las notas es:
 
-* Algoritmo Area_Volumen
-* Escribir '1. Hallar área de base:'
-* Escribir 'Por favor escriba el valor del radio'
-* Definir R Como Entero
-* Leer R
-* Definir A Como Entero
-* A <- 2
-*	Definir C Como Real
-*	C <- (A)*(PI)*(R*R)
-*	Escribir 'El resultado de área de base es:',C
-*	Escribir '2. Hallar area lateral'
-*	Escribir 'Por favor escriba el valor de altura:'
-*	Definir H Como Entero
-*	Leer H
-*	D <- (PI*2)*(R)*H
-*	Escribir 'El resultado de Area lateral es:',D
-*	Definir E Como Real
-*	E <- D+C
-*	Escribir 'El area del cilindro es:',E
-*	Escribir 'Hallar el volumen'
-*	Definir V Como Real
-*	V <- (PI)*(R*R)*(H)
-*	Escribir 'El volumen es:',V
+* Algoritmo Notas
+* Escribir 'Promedio ponderado:'
+* Escribir 'Escriba valor de Parcial 1:'
+* Definir P1 Como Real
+* Leer P1
+* Par1 <- P1*0.25
+* Escribir 'Escriba valor de Parcial 2:'
+* Definir P2 Como Real
+* Leer P2
+* Par2 <- P2*0.25
+* Escribir 'Escriba valor de Participación:'
+* Definir P3 Como Real
+* Leer P3
+* Par3 <- P3*0.20
+* Escribir 'Escriba valor de Examen Final:'
+* Definir P4 Como Real
+* Leer P4
+* Par4 <- P4*0.30
+* Definir A Como Real
+* A <- Par1+Par2+Par3+Par4
+* Escribir 'Calificación final:',A
 * FinAlgoritmo
 
 # Diagrama de flujo
 
-![TAREA SESIÓN 2 ÁREA-VOLUMEN CILINDRO](https://user-images.githubusercontent.com/69484760/90171325-f1b82000-dd66-11ea-922f-560d7ce7e43f.png)
+![TAREA SESION 2 ALGORITMO NOTAS](https://user-images.githubusercontent.com/69484760/90172568-d221f700-dd68-11ea-9ae4-4198d93d7715.png)
 
 # Al ejecutar
 
